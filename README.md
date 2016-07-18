@@ -40,6 +40,7 @@ More usages in the `examples` folder
 * Arduino Ethernet shield (arduino.cc, Wiznet W5100)
 * Arduino Wifi R3 shield (arduino.cc)
 * Teensy WIZ820io W5200
+* Adafruit Feather M0 WiFi - ATSAMD21 + ATWINC1500
  
 ## Arduino IDE (arduino.cc)
 * 1.6.9
